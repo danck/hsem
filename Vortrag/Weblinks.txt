@@ -27,3 +27,9 @@ http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 HTM Model Neuron:
 http://journal.frontiersin.org/article/10.3389/fncir.2016.00023/full
+
+Brain Cartoon:
+http://www.weallhaveuniquebrains.com/brain_anatomy/amygdala_and_hippocampus/
+
+Rat Labyrinth:
+http://www.slate.com/articles/health_and_science/the_mouse_trap/2011/11/rat_mazes_and_mouse_mazes_a_history_.html
