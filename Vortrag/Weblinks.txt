@@ -1,0 +1,29 @@
+Gene Expression Heatmap:
+http://casestudies.brain-map.org/ggb
+
+Firing Neurons in Mouse Auditory Cortex:
+https://www.youtube.com/watch?v=kQxsTyNKtqg
+
+Minicolumns Biological:
+http://brain.oxfordjournals.org/content/125/5/935
+
+NMDA Spike:
+https://www.researchgate.net/publication/44670091_The_decade_of_the_dendritic_NMDA_spike
+
+Cortical Layers:
+http://www.cell.com/trends/neurosciences/fulltext/S0166-2236(15)00175-7
+
+Pizza:
+https://www.mrpizza.me/_upload/products/14566833785907420332.png
+
+Maquaque Cortical Hierarchy:
+http://www.pnas.org/content/107/30/13485.full
+
+LSTM overview:
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+RNN overview:
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+HTM Model Neuron:
+http://journal.frontiersin.org/article/10.3389/fncir.2016.00023/full
